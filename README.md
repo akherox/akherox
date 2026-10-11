@@ -124,12 +124,12 @@ Developer with 4+ years of experience building and maintaining production system
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=akherox&theme=algolia&no-frame=true&margin-w=8&row=1"
-  alt="GitHub Profile Trophies"
+  src="https://raw.githubusercontent.com/akherox/akherox/main/achievements.svg"
+  alt="GitHub Profile Achievements"
+  width="100%"
 />
 
 </div>
-
 
 ---
 
