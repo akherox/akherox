@@ -66,31 +66,27 @@ Developer with 4+ years of experience building and maintaining production system
 <div align="center">
 
 <a href="https://github.com/akherox/portofolio">
-  <img
-    width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akherox&repo=portofolio&theme=tokyonight&hide_border=true"
-  />
+  <img width="400"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=portofolio&theme=tokyonight&hide_border=true"
+    alt="Portfolio project" />
 </a>
 
 <a href="https://github.com/akherox/pokedex">
-  <img
-    width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akherox&repo=pokedex&theme=tokyonight&hide_border=true"
-  />
+  <img width="400"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex&theme=tokyonight&hide_border=true"
+    alt="Pokedex project" />
 </a>
 
 <a href="https://github.com/akherox/marvel-pvp">
-  <img
-    width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akherox&repo=marvel-pvp&theme=tokyonight&hide_border=true"
-  />
+  <img width="400"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=marvel-pvp&theme=tokyonight&hide_border=true"
+    alt="Marvel PVP project" />
 </a>
 
-<a href="https://github.com/akherox/pokedex-complex">
-  <img
-    width="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akherox&repo=pokedex-complex&theme=tokyonight&hide_border=true"
-  />
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex-complex&theme=tokyonight&hide_border=true">
+  <img width="400"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=akherox&repo=pokedex-complex&theme=tokyonight&hide_border=true"
+    alt="Complex Pokedex project" />
 </a>
 
 </div>
@@ -103,17 +99,20 @@ Developer with 4+ years of experience building and maintaining production system
 
 <img
   height="165"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=akherox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=akherox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  alt="GitHub statistics"
 />
 
 <img
   height="165"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akherox&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akherox&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Most used programming languages"
 />
 
 <img
   height="165"
-  src="https://streak-stats.demolab.com?user=akherox&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=akherox&theme=github-dark-blue&hide_border=true"
+  alt="GitHub contribution streak"
 />
 
 </div>
@@ -126,9 +125,11 @@ Developer with 4+ years of experience building and maintaining production system
 
 <img
   src="https://github-profile-trophy.vercel.app/?username=akherox&theme=algolia&no-frame=true&margin-w=8&row=1"
+  alt="GitHub Profile Trophies"
 />
 
 </div>
+
 
 ---
 
@@ -136,9 +137,13 @@ Developer with 4+ years of experience building and maintaining production system
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=akherox&theme=react-dark&hide_border=true"
-/>
+<a href="https://github.com/akherox">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akherox&theme=tokyo-night&hide_border=true&area=true"
+    alt="Bryan's GitHub Activity Graph"
+    width="100%"
+  />
+</a>
 
 </div>
 
