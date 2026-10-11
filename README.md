@@ -137,13 +137,11 @@ Developer with 4+ years of experience building and maintaining production system
 
 <div align="center">
 
-<a href="https://github.com/akherox">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=akherox&theme=tokyo-night&hide_border=true&area=true"
-    alt="Bryan's GitHub Activity Graph"
-    width="100%"
-  />
-</a>
+<img
+  src="https://raw.githubusercontent.com/akherox/akherox/output/activity-graph.svg"
+  alt="GitHub Contribution Activity Graph"
+  width="100%"
+/>
 
 </div>
 
